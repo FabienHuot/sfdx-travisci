@@ -1,7 +1,7 @@
 {
     "orgName": "wade.wegner Example",
     "edition": "Developer",
-    "features" : {
+    "settings" : {
         "enabled": ["S1DesktopEnabled"]
     }
 }
